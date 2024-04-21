@@ -1,3 +1,12 @@
 file 1
 
 file1
+
+file 2
+
+file3
+    file4
+
+file5
+
+file6
