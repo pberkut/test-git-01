@@ -1,2 +1,4 @@
 
 Hello file2
+
+Add text for footer
